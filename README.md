@@ -3,11 +3,13 @@ Inspired by a real money tracker app in AppStore, Cookie is an interaction stand
 <br>
 |                        |                        |
 | ---------------------- | ---------------------- |
-| ![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/6881dcf1-6bec-4cdb-a6c7-6a9aa7ab1986) |![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/9f58d89a-177d-4c31-b699-65d27da7f630)
+| ![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/47f736bd-b93d-41d8-90c7-2d2d38826d1d) |![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/06de0ce8-9bf9-4566-9bd1-2a85603948a0)
+
 
 |                        |                        |
 | ---------------------- | ---------------------- |
-| ![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/921a39bc-74e2-4a6e-a8e7-8e9ca9d20bf7) |![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/44d41d48-1964-4c3f-9d24-2976e28ebe06)
+| ![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/d1e3f621-28a5-4114-bd2e-127b40749c85) |![image](https://github.com/yuennyao/cookie-money-tracker-system/assets/87840513/f9e71a00-78e8-4b8a-8214-c1cfd99a3faa)
+
 
 <hr>
 <h6>Project completed in 2022</h6>
