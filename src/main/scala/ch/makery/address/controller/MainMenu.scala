@@ -1,0 +1,24 @@
+package ch.makery.address.controller
+
+import scalafxml.core.macros.sfxml
+import ch.makery.address.Main
+import scalafx.scene.control.{TableView, TableColumn, Label, Alert}
+import scalafx.beans.property.{StringProperty} 
+import scalafx.Includes._
+import scalafx.event.ActionEvent
+import scalafx.scene.control.Alert.AlertType
+
+@sfxml
+class MainMenu {
+    def moneyTracker()  {
+        Main.showMoneyTracker()
+    }
+
+    def wallet() {
+        Main.showCardOverview()
+    }
+
+    def logout(){
+        Main.showLogin()
+    }
+}

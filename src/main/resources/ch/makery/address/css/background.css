@@ -1,0 +1,9 @@
+.mainMenuBg{
+    -fx-background-image: url(../images/background.jpg);
+    -fx-background-size: 100% 100%;
+    -fx-opacity: 0.85;
+   }
+
+.bodybg2{
+    -fx-background-color: #CA7B42;
+}
